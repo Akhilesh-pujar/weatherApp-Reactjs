@@ -748,7 +748,7 @@ div#txt {
 }
 
 .mb-icon p {
-  color: white;
+  color: rgb(35, 6, 6);
   width: fit-content;
   position: relative;
   left: 24%;
