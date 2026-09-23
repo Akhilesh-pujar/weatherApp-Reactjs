@@ -18,7 +18,7 @@ function App() {
         </a>{" "}
         | Powered by{" "}
         <a target="_blank" href="https://www.htmlhints.com/">
-          HTML HINTS
+          CHANGES TO BE
         </a>
       </div>
     </React.Fragment>
